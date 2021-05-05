@@ -37,7 +37,7 @@ var APP_DATA = {
         }
       ],
       "infoHotspots": []
-    }
+    },
     {
       "id": "0-mia",
       "name": "mia卧室",

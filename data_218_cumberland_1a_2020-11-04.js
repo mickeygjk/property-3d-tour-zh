@@ -37,7 +37,7 @@ var APP_DATA = {
         }
       ],
       "infoHotspots": []
-    }
+    },
     {
       "id": "8-2",
       "name": "客厅2",

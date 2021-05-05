@@ -93,7 +93,7 @@ var APP_DATA = {
         }
       ],
       "infoHotspots": []
-    }
+    },
     {
       "id": "0-",
       "name": "厨房",

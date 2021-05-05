@@ -43,7 +43,7 @@ var APP_DATA = {
         }
       ],
       "infoHotspots": []
-    }
+    },
     {
       "id": "0-1",
       "name": "厕所1",
